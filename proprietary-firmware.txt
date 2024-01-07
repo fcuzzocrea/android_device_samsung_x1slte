@@ -1,0 +1,19 @@
+# Firmware for model SM-G980F - from Samsung package version G980FXXSIHWKD
+
+dqmdbg.img_SM-G980F
+harx.bin_SM-G980F
+keystorage.bin_SM-G980F
+ldfw.img_SM-G980F
+modem.bin_SM-G980F
+modem_debug.bin_SM-G980F
+sboot.bin_SM-G980F
+ssp.img_SM-G980F
+tzar.img_SM-G980F
+tzsw.img_SM-G980F
+uh.bin_SM-G980F
+up_param.bin_SM-G980F
+
+# File containing the supported models, one per line
+models
+# Files containing Samsung package version for supported models
+version_SM-G980F
